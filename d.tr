@@ -1,0 +1,64 @@
+left_boundary = 2.000000
+lower_boundary = 7.200000
+sann 0
+next
+shape
+left_boundary  = 2.000000
+lower_boundary  = 7.200000
+sann  0
+next 
+COLOR  blue
+20.0   0.0
+30.0   1.0
+40.0   2.0
+60.0   3.0
+70.0   6.0
+100.0  6.0
+title  = no.of detected intruder nodes percentage
+title_x  = percentage of simulation time
+title_y  = no.of detected intruder nodes
+next 
+shape 
+next 
+COLOR  red
+5.0   1.0
+20.0   3.0
+30.0   5.0
+40.0   6.0
+50.0   8.0
+60.0   9.0
+70.0   10.0
+next 
+shape 
+next 
+COLOR  green
+5.0   4.0
+20.0   5.0
+30.0   6.0
+40.0   8.0
+50.0   10.0
+60.0   12.0
+100.0   12.0
+next 
+shape 
+next 
+COLOR  yellow
+5.0   5.0
+20.0   8.0
+30.0   10.0
+40.0   12.0
+50.0   14.0
+100.0   14.0
+next 
+shape 
+sann  1
+title  = no.of detected intruder nodes percentage
+title_x  = percentage of simulation time
+title_y  = no.of detected intruder nodes
+sann 1
+text 8.956522 7.711653
+Yellow - dcb.tr
+Green - dhb.tr
+Red - dsb.tr
+Blue - dab.tr
+end_text

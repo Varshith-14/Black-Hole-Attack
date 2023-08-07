@@ -1,0 +1,69 @@
+left_boundary = 2.000000
+lower_boundary = 7.200000
+sann 0
+next
+shape
+left_boundary  = 2.000000
+lower_boundary  = 7.200000
+sann  0
+next 
+COLOR  blue
+0   200
+0.1   190
+0.2   180
+0.3   170
+0.5   140
+0.6   100
+0.8   30
+1   0
+title  = no.of detected intruder nodes percentage
+title_x  = percentage of simulation time
+title_y  = no.of detected intruder nodes
+next 
+shape 
+next 
+COLOR  red
+0   150
+0.2   140
+0.3   120
+0.4   40
+0.5   0
+next 
+shape 
+next 
+COLOR  green
+0   210
+0.1   210
+0.3   180
+0.46   160
+0.66   130
+0.8   110
+0.9   100
+1   100
+next 
+shape 
+next 
+COLOR  yellow
+0   250
+0.1   240
+0.2   220
+0.3   200
+0.4   190
+0.5   180
+0.6   170
+0.7   160
+0.86   140
+1   120
+next 
+shape 
+sann  1
+title  = total no.og energy reserves over simulation time
+title_x  = total no.og energy reserves
+title_y  = simulation time
+sann 1
+text 8.956522 7.711653
+Yellow - rcb.tr
+Green - rhb.tr
+Red - rsb.tr
+Blue - rab.tr
+end_text
